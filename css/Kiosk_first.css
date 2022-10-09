@@ -1,0 +1,29 @@
+.pinSlot {
+	position: absolute;
+	top: 39.5%;
+	width: 200px;
+	height: 305px;
+	background-color: rgb(255, 255, 255);
+	border: 3px solid rgb(255, 255, 255);
+	border-color: rgb(255, 255, 255);
+	border-radius: 5px;
+	font-size: 80px;
+	text-align: center;
+	color: transparent;
+	text-shadow: 0 0 0 black;
+}
+
+#button {
+	position: absolute;
+	top: 1050px;
+	left: 810px;
+	width: 750px;
+	height: 142px;
+	border-radius: 5px;
+	font-size: 20px;
+	text-align: center;
+	background-color: rgb(255, 255, 255);
+	border: 3px solid rgb(255, 255, 255);
+	color: black;
+	opacity: 0;
+}
